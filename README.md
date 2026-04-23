@@ -10,7 +10,8 @@ Follow this learning path:
 3. [Coumpling Affine](coupling_affine.ipynb)
 4. [Training and Evaluation](evaluate.ipynb)
 5. [Sampling](sampling.ipynb)
-6. [Use in Physics: Boltzmann Generators](boltzmann.ipynb)
+6. [Sampling with permutation](sampling_permutation.ipynb)
+7. [Use in Physics: Boltzmann Generators](boltzmann.ipynb)
 ---
 
 These notebooks introduce the core concepts of Normalizing Flows, with simple and practical examples to build intuition step by step.
