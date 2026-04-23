@@ -8,8 +8,9 @@ Follow this learning path:
 - [Change of Variables](change_of_variables.ipynb)  
 - [Triangular Jacobian](jacobian_triangular.ipynb)  
 - [Coumpling Affine](coupling_affine.ipynb)
-- [Example of Normalizing Flow Implementation](nf.ipynb)
-
+- [Training and Evaluation](training_of_nf.ipynb)
+- [Sampling](sampling.ipynb)
+- [Use in Physics: Boltzmann Generators](boltzmann.ipynb)
 ---
 
 These notebooks introduce the core concepts of Normalizing Flows, with simple and practical examples to build intuition step by step.
