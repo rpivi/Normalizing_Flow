@@ -21,5 +21,4 @@ These notebooks introduce the core concepts of Normalizing Flows, with simple an
 ## Papers:
 
 1. [Normalizing Flows](papamakarios.pdf)
-
-2.[Boltzmann Generators](science.aaw1147.pdf)
+2. [Boltzmann Generators](science.aaw1147.pdf)
