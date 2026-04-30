@@ -16,3 +16,9 @@ Follow this learning path:
 ---
 
 These notebooks introduce the core concepts of Normalizing Flows, with simple and practical examples to build intuition step by step.
+
+
+## Papers:
+
+1. [Normalizing Flows](papamakarios.pdf)
+2. 2.[Boltzmann Generators]()
