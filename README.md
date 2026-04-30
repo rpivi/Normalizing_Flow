@@ -8,7 +8,7 @@ Follow this learning path:
 1. [Change of Variables](change_of_variables.ipynb)  
 2. [Triangular Jacobian](jacobian_triangular.ipynb)  
 3. [Coumpling Affine](coupling_affine.ipynb)
-4. [Autoregressive] (autoregressive_flow.ipynb)
+4. [Autoregressive](autoregressive_flow.ipynb)
 5. [Training and Evaluation](evaluate.ipynb)
 6. [Sampling](sampling.ipynb)
 7. [Sampling with permutation](sampling_permutation.ipynb)
