@@ -13,6 +13,8 @@ Follow this learning path:
 6. [Sampling](sampling.ipynb)
 7. [Sampling with permutation](sampling_permutation.ipynb)
 8. [Use in Physics: Boltzmann Generators](boltzmann.ipynb)
+9. [Parameters Sampling for a neural network](sampling_parameters.ipynb)
+   
 ---
 
 These notebooks introduce the core concepts of Normalizing Flows, with simple and practical examples to build intuition step by step.
